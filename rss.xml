@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Alonso</title>
+    <description>Todas las noticias sobre Fernando Alonso</description>
+    <language>es-es</language>
+    <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+    <category>Noticias</category>
+    <generator>Visual Studio Code</generator>
+    <link>https://github.com/alberto037/RSS</link>
+    <image>
+      <url>https://www.museoycircuitofernandoalonso.com/wp-content/uploads/2021/04/p_9_3_4_934-Pegatina-Fernando-Alonso.jpg</url>
+      <title>Fernando Alonso</title>
+      <link>http://www.ejemplo.com</link>
+    </image>
+    <item>
+      <title>Primer Artículo</title>
+      <link>https://www.eldesmarque.com/motor/formula-1/20231220/fernando-alonso-y-la-razon-por-la-que-siempre-vuelve-a-espana-en-navidad-aqui-en-el-norte_300191973.html</link>
+      <description>
+        Fernando Alonso y la razón por la que siempre vuelve a España en Navidad: "Aquí en el norte"</description>
+        <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+      <category>Noticias</category>
+    </item>
+    <item>
+        <title>Segundo Artículo</title>
+        <link>https://okdiario.com/deportes/fernando-alonso-habla-abiertamente-sobre-retirada-si-siento-lento-12102988</link>
+        <description>
+            Fernando Alonso habla abiertamente sobre su retirada: «Si me siento lento…»</description>
+        <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+        <category>Noticias</category>
+      </item>
+      <item>
+        <title>Tercer Artículo</title>
+        <link>https://www.divinity.es/celebrities/20231220/fernando-alonso-mensaje-apoyo-raquel-rosario-nuevo-single_18_011267148.html</link>
+        <description>Fernando Alonso apoya a su exmujer, Raquel del Rosario, en su nuevo proyecto: "Te lo mereces"</description>
+        <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+        <category>Noticias</category>
+      </item>
+      <item>
+        <title>Cuarto Artículo</title>
+        <link>https://www.lasexta.com/noticias/deportes/motor/formula1/button-copia-fernando-alonso-volver-competicion-42-anos_202312196581c16bd7b0c300019973a2.html</link>
+        <description>Button 'copia' a Fernando Alonso para volver a la competición: "Si con 42 años..."</description>
+        <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+        <category>Noticias</category>
+      </item>
+      <item>
+        <title>Quinto Artículo</title>
+        <link>https://es.motorsport.com/f1/news/fernando-alonso-secreto-longevidad/10559113/</link>
+        <description>Fernando Alonso analiza el secreto de su exitosa longevidad en F1</description>
+        <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+        <category>Noticias</category>
+      </item>
+  </channel>
+</rss>
